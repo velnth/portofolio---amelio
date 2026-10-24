@@ -2495,3 +2495,14 @@ footer span {
     background: #d4b29c;
     border-radius: 4px;
 }
+
+.student-id {
+    display: inline-block;
+    margin: 0 0 24px;
+    padding: 7px 15px;
+    border-radius: 30px;
+    background: #FCE5EE;
+    color: #B94376;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
